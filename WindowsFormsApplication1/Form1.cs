@@ -23,7 +23,7 @@ namespace WindowsFormsApplication1
 
             MessageBox.Show("Chao cac ban0");       
 
-
+  MessageBox.Show("Chao cac ban0");       
         }
     }
 }
