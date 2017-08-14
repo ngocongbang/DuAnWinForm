@@ -21,9 +21,8 @@ namespace WindowsFormsApplication1
 
         {
 
-            MessageBox.Show("Chao cac ban11");       
-
-               
+            MessageBox.Show("Chao cac ban11");
+      
 
 
         }
