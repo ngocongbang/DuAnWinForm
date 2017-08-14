@@ -258,7 +258,7 @@ namespace System.Web.Http
         /// <summary>
         /// Creates an <see cref="NotSupportedException"/>.
         /// </summary>
-        /// <param name="messageFormat">A composite format string explaining the reason for the exception.</param>
+        /// <param name="messageFormat">A composite a format string explaining the reason for the exception.</param>
         /// <param name="messageArgs">An object array that contains zero or more objects to format.</param>
         /// <returns>The logged <see cref="Exception"/>.</returns>
         internal static NotSupportedException NotSupported(string messageFormat, params object[] messageArgs)
