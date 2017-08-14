@@ -20,10 +20,11 @@ namespace WindowsFormsApplication1
         private void Form1_Load(object sender, EventArgs e)
         {
 
-
-           MessageBox.Show("Chao cac ban0");
-            MessageBox.Show("Chao cac ban0");
-             MessageBox.Show("Chao cac ban0");
+            MessageBox.Show("Chao cac ban1");
+            MessageBox.Show("Chao cac ban2");
+            MessageBox.Show("Chao cac ban3");
+            MessageBox.Show("Chao cac ban4");
+            MessageBox.Show("Chao cac ban5");
 
         }
     }
